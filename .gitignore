@@ -1,4 +1,4 @@
 # Jupyter Notebook
 .ipynb_checkpoints
-.csv
-.bak
+*.csv
+*.bak
